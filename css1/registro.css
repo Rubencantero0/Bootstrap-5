@@ -1,0 +1,8 @@
+.container-fluid {
+    display: flex;
+    flex-direction: column; /* Organizar en columna */
+    flex: 1; /* Ocupar todo el espacio disponible */
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
